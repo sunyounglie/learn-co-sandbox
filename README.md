@@ -1,11 +1,12 @@
-Hi! 👋
+# 1. Grab the number 6 from this nested_list and set it equal to the number_six variable
+nested_list = [1, [2, [4, [5, [6]], 3]]]
+number_six = [1][1][1][1]
+number_six
 
-You've opened the IDE Sandbox. 🎉
+# 2. Sort the cats list in alphabetical order
+cats = ['Maine Coon', 'Tabby', 'Siamese', 'Garfield', 'Sylvester']
+# 3. Look up a new string or list method and explain how it works
 
-The Sandbox is an environment that you can access on "readme" and "code-along" lessons in Learn. It's a great place to experiment with code when you're not working on a "lab" (labs open the IDE In Browser).
 
-The work you do in the Sandbox will be saved from lesson to lesson, and is automatically saved on your behalf to a repository in your GitHub account called `learn-co-sandbox`.
 
-Please DO NOT touch this repository in GitHub, as it will affect your Sandbox experience, and potentially cause your work to be out of sync.
-
-To learn more about the Sandbox, please visit http://help.learn.co/ide-in-browser#sandbox.
+Collapse 
